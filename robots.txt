@@ -1,7 +1,6 @@
 # Jae definitely wasn't here!
 
 User-agent: *
-Disallow: /images/bg/bg-image-home.jpg
 Disallow: /images/bg/bg-image-blog.JPG
 Disallow: /images/bg/bg-image-discography.JPG
 Disallow: /images/icons/clock.png
